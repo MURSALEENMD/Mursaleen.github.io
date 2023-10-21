@@ -1,3 +1,14 @@
+/*  VaultofCodes Web development Internship Task-2
+    Task assigned on: 12/10/2023
+    Task Deadline: 18/10/2023
+    Task: 
+    Create a portfolio page
+    Component Creation
+    Description: Build a basic component (e.g., a card, modal, or slider) in your portfolio page using the chosen front-end framework
+
+    Author: Adrian Mathew Aloysius 
+*/
+
 AOS.init();
 // You can also pass an optional settings object
 // below listed default settings
